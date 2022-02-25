@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Further observations upon the Dublin-bills, or, Accompts of the houses, hearths, baptisms and burials in that city by Sir William Petty ...</title>
+            <author>Petty, William, Sir, 1623-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54616</idno>
+            <idno type="STC">Wing P1926</idno>
+            <idno type="STC">ESTC R22187</idno>
+            <idno type="EEBO-CITATION">12363202</idno>
+            <idno type="OCLC">ocm 12363202</idno>
+            <idno type="VID">60308</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60308)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 286:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Further observations upon the Dublin-bills, or, Accompts of the houses, hearths, baptisms and burials in that city by Sir William Petty ...</title>
+                  <author>Petty, William, Sir, 1623-1687.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition corrected and enlarg'd.</edition>
+               </editionStmt>
+               <extent>[2], 6, 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mark Pardoe ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"In 1686 the Further observations were prefixed to the Observations upon the Dublin bills as issued in 1683, and the whole was put forward as a 'second edition, corrected and enlarg'd'. In fact, however, the original Observations of 1683 were not even reprinted in 1686, the left-over sheets being utilized, and the only change being the suppression of the 1683 title"--NUC pre-1956.</note>
+                  <note>Reproduction of original in Columbia University Library and British Library.</note>
+                  <note>"Observations upon the Dublin-bills of mortality, 1681": 8 p. at end.</note>
+                  <note>Four folded tables at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dublin (Ireland) --  Statistics, Vital.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60308:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:60308:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:60308:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:60308:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <p>FURTHER OBSERVATION UPON THE <hi>Dublin-Bills:</hi> OR, ACCOMPTS OF THE Houſes, Hearths, Baptiſms, And Burials in that CITY.</p>
+            <p>
+               <hi>The Second Edition, Corrected and Enlarg'd:</hi>
+            </p>
+            <p>By Sir <hi>WILLIAM PETTY,</hi> Fellow of the <hi>Royal Society.</hi>
+            </p>
+            <p>
+               <hi>LONON:</hi> Printed for <hi>Mark Pardoe,</hi> at the Sign of the <hi>Black Raven,</hi> over-againſt <hi>Bed<g ref="char:EOLhyphen"/>ford</hi>-Houſe in the <hi>Strand.</hi> 1686.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:60308:3"/>
+            <!-- PDF PAGE 9 -->
+            <head>The STATIONER TO THE READER.</head>
+            <p>I Have not thought fit to make any Altera<g ref="char:EOLhyphen"/>tion of the firſt Editi<g ref="char:EOLhyphen"/>on, but have only added a New Table, with Obſerva<g ref="char:EOLhyphen"/>tion upon it, placing the ſame in the front of what was before; which perhaps might have been as well placed after the like Table at the 8th Page of the firſt Edition.</p>
+         </div>
+      </front>
+      <body>
+         <div type="table">
+            <pb n="1" facs="tcp:60308:3"/>
+            <!-- PDF PAGE 9 -->
+            <p>
+               <table>
+                  <head>
+                     <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> 1682.</head>
+                  <row>
+                     <cell role="label">Pariſhes.</cell>
+                     <cell role="label">Houſes.</cell>
+                     <cell role="label">Fire-places.</cell>
+                     <cell role="label">Baptiz'd.</cell>
+                     <cell role="label">Buri'd.</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>James</hi>
+                     </cell>
+                     <cell>272</cell>
+                     <cell>836</cell>
+                     <cell rows="2">122</cell>
+                     <cell rows="2">306</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Katherines</hi>
+                     </cell>
+                     <cell>540</cell>
+                     <cell>2198</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Nicholas</hi> with<g ref="char:EOLhyphen"/>out, and St. <hi>Patricks</hi>
+                     </cell>
+                     <cell>1064</cell>
+                     <cell>4082</cell>
+                     <cell>145</cell>
+                     <cell>414</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Bridgets</hi>
+                     </cell>
+                     <cell>395</cell>
+                     <cell>1903</cell>
+                     <cell>68</cell>
+                     <cell>149</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Audones</hi>
+                     </cell>
+                     <cell>276</cell>
+                     <cell>1510</cell>
+                     <cell>56</cell>
+                     <cell>164</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Michael</hi>
+                     </cell>
+                     <cell>174</cell>
+                     <cell>884</cell>
+                     <cell>34</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Johns</hi>
+                     </cell>
+                     <cell>302</cell>
+                     <cell>1636</cell>
+                     <cell>74</cell>
+                     <cell>101</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Nicholas</hi> within, and Chriſt-Church <hi>Lib.</hi>
+                     </cell>
+                     <cell>153</cell>
+                     <cell>902</cell>
+                     <cell>26</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Warbors</hi>
+                     </cell>
+                     <cell>240</cell>
+                     <cell>1638</cell>
+                     <cell>45</cell>
+                     <cell>105</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Michans</hi>
+                     </cell>
+                     <cell>938</cell>
+                     <cell>3516</cell>
+                     <cell>124</cell>
+                     <cell>389</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Andrews</hi>
+                     </cell>
+                     <cell>864</cell>
+                     <cell>3638</cell>
+                     <cell>131</cell>
+                     <cell>300</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Kevans</hi>
+                     </cell>
+                     <cell>554</cell>
+                     <cell>2120</cell>
+                     <cell rows="2">87</cell>
+                     <cell rows="2">233</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Donobrook</hi>
+                     </cell>
+                     <cell>253</cell>
+                     <cell>506</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">6025</cell>
+                     <cell role="total">25369</cell>
+                     <cell role="total">912</cell>
+                     <cell role="total">2263</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="text">
+            <head>Further Obſervations upon the <hi>Dublin</hi> Accompts of Baptiſms and Burials, Houſes and Hearths, <hi>viz.</hi>
+            </head>
+            <p>THe Table hath been made for the Year 1682, wherein is to be noted,</p>
+            <pb n="2" facs="tcp:60308:4"/>
+            <!-- PDF PAGE 10 -->
+            <p n="1">1. That the Houſes which <hi>Anno</hi> 1671, were but 3850 are <hi>Anno</hi> 1682, 6025; but whether this difference is cauſed by the real encreaſe of Hou<g ref="char:EOLhyphen"/>ſing, or by fraud and defect in the for<g ref="char:EOLhyphen"/>mer Accompts, is left to conſiderati<g ref="char:EOLhyphen"/>on. For the Burials or People have increaſed but from 1696, to 2263, according to which proportion, the 3850 Houſes <hi>Anno</hi> 1671, ſhould <hi>Anno</hi> 1682 have been but 5143, wherefore ſome fault may be ſuſpected as afore<g ref="char:EOLhyphen"/>ſaid, when Farming the Hearth-mony was in agitation.</p>
+            <p n="2">2. The Hearths have encreaſed according to the Burials, and ⅓ of the ſaid increaſe more, <hi>viz.</hi> The Burials <hi>Anno</hi> 1671 were 1696, the ⅓ where<g ref="char:EOLhyphen"/>of is 563, which put together makes 2259, which is near the number of Burials <hi>Anno</hi> 1682. But the Hearths <hi>Anno</hi> 1671, were 17500, whereof the ⅓ is 5833, making in all but 23333; whereas the whole Hearths
+<pb n="3" facs="tcp:60308:4"/>
+               <!-- PDF PAGE 10 -->
+               <hi>Anno</hi> 1682 were 25369, <hi>viz.</hi> ⅓ and better of the ſaid 5833 more.</p>
+            <p n="3">3. The Houſing were <hi>Anno</hi> 1671, but 3850, which if they had encrea<g ref="char:EOLhyphen"/>ſed <hi>Anno</hi> 1682 but according to the Burials, they had been but 5143, or according to the Hearths, had been but 5488, whereas they appear 6025, encreaſing double to the Hearths. So as 'tis likely there hath been ſome errour in the ſaid Account of the Houſing, unleſs the new Houſing be very ſmall, and have but one Chimney apiece, and that ¼ part of them are untenan<g ref="char:EOLhyphen"/>ted. On the other hand, 'tis more like<g ref="char:EOLhyphen"/>ly that when 1696 dy'd <hi>per An.</hi> there were near 6000; for 6000 Houſes at 8 Inhabitants <hi>per</hi> Houſe, would make the number of the People to be 48 Thouſand, and the number of 1696 that died according to the Rule of One out of 30, would have made the number of Inhabitants about 50 Thou<g ref="char:EOLhyphen"/>ſand: For which reaſon I continue to
+<pb n="4" facs="tcp:60308:5"/>
+               <!-- PDF PAGE 11 -->believe there was ſome Errour in the Accompt of 3850 Houſes as aforeſaid, and the rather becauſe there is no ground from experience to think that in 11 year, the Houſes in <hi>Dublin</hi> have encreaſed from 3850 to 6025.</p>
+            <p>Moreover, I rather think that the number of 6025 is yet ſhort, becauſe that number at 8 heads <hi>per</hi> Houſe makes the Inhabitants to be but 48200; whereas the 2263 who died in the year 1682, according to the afore<g ref="char:EOLhyphen"/>mention'd Rule of one dying out of 30 makes the number of People to be 67890; the <hi>Medium</hi> betwixt which number and 48200 is 58045, which is the beſt eſtimate I can make of that matter, which I hope Authority will ere long rectifie, by direct and exact Enquiries.</p>
+            <p n="4">4. As to the Births, we ſay that <hi>Anno</hi> 1640, 1641, and 1642, at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> juſt before the Troubles in Reli<g ref="char:EOLhyphen"/>gion began, the Births were ⅚ of the
+<pb n="5" facs="tcp:60308:5"/>
+               <!-- PDF PAGE 11 -->Burials, by reaſon I ſuppoſe of the greaterneſs of Families in <hi>London</hi> a<g ref="char:EOLhyphen"/>bove the Country, and the fewer Breeders, and not for want of Regi<g ref="char:EOLhyphen"/>ſtring. Wherefore deducting ⅙ of 2263, which is 377, there remains 1886 for the probable number of Births in <hi>Dublin</hi> for the year 1682; whereas but 912 are repreſented to have been Chriſten'd in that year, though 1023 were Chriſten'd <hi>Anno</hi> 1671, when there died but 1696; which decreaſing of the Chriſtnings, and increaſing of the Burials, ſhews the increaſe of Non-regiſtring in the Legal Books, which muſt be the increaſe of <hi>Roman Catholicks</hi> at <hi>Dublin.</hi>
+            </p>
+            <p>The ſcope of this whole Paper there<g ref="char:EOLhyphen"/>fore is, That the People of <hi>Dublin</hi> are rather 58000, than 32000; and that the Diſſenters, who do not Regiſter their Baptiſms, have encreaſed from 391 to 974: but of Diſſenters, none
+<pb n="6" facs="tcp:60308:6"/>
+               <!-- PDF PAGE 12 -->have increaſed but the <hi>Roman Catho<g ref="char:EOLhyphen"/>licks,</hi> whoſe Numbers have encrea<g ref="char:EOLhyphen"/>ſed from about 2 to 5 in the ſaid Years. The exacter Knowledge whereof, may alſo be better had from direct Enquiries.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
